@@ -2,7 +2,7 @@
 
 ## Description
 
-This prototype is a simple implementation of the classic arcade game Paratrooper. In Paratrooper, the player controls a turret at the bottom of the screen and must shoot down paratroopers descending from the sky before they reach the turret.
+This prototype is a simple implementation of the classic arcade game Paratrooper. In Paratrooper, the player controls a turret at the bottom of the screen and must shoot down paratroopers and helicopters before the paratroopers reach the turret.
 
 ## Features
 
