@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f67502d61fa55724abfcb5c7dc70c594
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rb: {instanceID: 0}
+  - soldierPrefab: {fileID: 251126137137481886, guid: 7853df8be5fd7be4ca3db80fa732b80f,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

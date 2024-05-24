@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b611e787b2211e04f9c18ccd3ce8438a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cannon: {instanceID: 0}
+  - scorebrd: {instanceID: 0}
+  - go: {instanceID: 0}
+  - cont: {instanceID: 0}
+  - got: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
