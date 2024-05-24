@@ -47,6 +47,17 @@ This prototype was developed using Unity game engine and C# programming language
 - **Power-Ups and Upgrades:** Introduce power-ups and upgrades that enhance the player's abilities or provide temporary advantages.
 - **Multiplayer Mode:** Add a multiplayer mode where players can compete against each other or collaborate to achieve common goals.
 
+## Screenshots
+### Main Menu:
+![main menu](https://github.com/Hk0509/paratroopers/assets/80637998/f10043b6-6a68-4b19-81b5-532f44785d70)
+
+### Ingame:
+![Ingame](https://github.com/Hk0509/paratroopers/assets/80637998/7f8455b2-393c-4547-8975-9ffffdff4677)
+
+
+
+
+
 ## Credits
 
 - Developed by Himanshu Kapoor
