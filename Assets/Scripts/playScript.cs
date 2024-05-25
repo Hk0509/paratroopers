@@ -11,12 +11,15 @@ public class playScript : MonoBehaviour
         Time.timeScale = 0f;
     }
 
+    //Play button logic
     public void play()
     {
         Time.timeScale = 1f;
         controls.SetActive(true);
         plybtn.SetActive(false);
     }
+
+    //Exit button logic
     public void Exit()
     {
         Application.Quit();

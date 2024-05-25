@@ -38,13 +38,13 @@ public class shootScript : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        // Ensure that this script is attached to a bullet GameObject
         if (collision.CompareTag("Heli"))
         {
             if (gameObject.CompareTag("Bullet"))
             {
                 Destroy(collision.gameObject);
-                Instantiate(smoke, transform.position, smoke.transform.rotation);
+                GameObject smokeInstance = Instantiate(smoke, transform.position, smoke.transform.rotation);
+                Destroy(smokeInstance, 1f); // Destroy smoke after 1 second
                 score += 5;
             }
         }
@@ -53,7 +53,8 @@ public class shootScript : MonoBehaviour
             if (gameObject.CompareTag("Bullet"))
             {
                 Destroy(collision.gameObject);
-                Instantiate(smoke, transform.position, smoke.transform.rotation);
+                GameObject smokeInstance = Instantiate(smoke, transform.position, smoke.transform.rotation);
+                Destroy(smokeInstance, 1f); 
                 score += 10;
             }
         }
